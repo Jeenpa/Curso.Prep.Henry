@@ -1,0 +1,49 @@
+
+	* Variables: Son espacios que asignamos para luego insertar datos (numero, cadenas de caracteres, booleanos) y poder hacer uso de ellos segun se requiera. Las variables se declaran con las palabras reservadas: var, let, const.
+
+	ejemplo: 	var ejemplo_1:
+				let ejemplo_2;
+				const ejemplo_3;
+
+
+
+
+
+	* Strings: Son cadenas de caracteres, sea cualquier letra, palabra, numero o caracter especial, se le reconoce porque estan entre comillas 
+
+	ejemplo:	"e"
+				"ejemplo"
+				"123"
+				"true"
+				".-!"#$%&/()=
+
+
+
+
+
+	* Funciones (argumentos, `return`): Son lineas de codigo que ejecutan una accion predeterminada, cuantas veces sea necesario. Pueden o no recibir un arumento para ejecutar el codigo segun sea el caso. Entonces al crear y llamar funciones estamos automatizando una parte del codigo
+
+	ejemplo: function(argumento){
+		//accion a ejecutar
+	}   
+
+
+
+
+
+	* Declaraciones `if`: Es una sentencia que nos permite ejecutar una accion en el codigo solo si se da la condicion o argumento dentro de la sintaxis del if
+
+	ejemplo: if(condicion){
+		//accion a ejecutar
+	}
+
+
+
+
+
+	* Valores booleanos (`true`, `false`): Son un tipo de dato el cual solo puede confirmar dos estados "verdadero" o "falso" segun sea el caso
+	true: verdadero
+	false: falso
+
+	ejemplo: el cielo es azul= true
+			 el cielo es rojo= false

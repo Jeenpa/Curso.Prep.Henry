@@ -1,0 +1,16 @@
+	
+
+	* Objetos: Son un conjunto de datos que almacena multiples descripciones o elementos, de algo en particular, su utildad es muy parecida a la funcion de un arreglo pero tiene ciertas diferencias se instancia mediante un nombre seguido de llaves {} y su indice para acceder a los datos es mediante nombres preasignados.
+
+	* Propiedades: Son los valores de los elementos que conforman el objeto
+
+	* Métodos: Se le conoce como metodo a las funciones dentro de un objeto
+
+	* Bucle `for…in`: Se utiliza para recorrer los elementos de un objeto ya que a diferencia de los arreglos su indice no es numerico 
+
+	ejemplo: for(var clave in nombredeobjeto){
+
+	}
+
+
+	* Notación de puntos vs notación de corchetes: Ambas se utilizan para hacer llamados de objetos 

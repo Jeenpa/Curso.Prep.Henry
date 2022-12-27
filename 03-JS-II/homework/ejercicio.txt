@@ -1,0 +1,14 @@
+* `for`: Es un ciclo que nos permite repetir una tarea especifica dentro del codigo de una manera casi automatica tantas veces sea necesario
+
+Ejemplo: for(i=desde; i<hasta; i++){
+	//accion que se repite
+}	
+
+
+
+
+
+* `&&`, `||`, `!`: Son operadores logicos booleanos siendo:
+&& and "y"
+|| or "o"
+! not "contrario o negacion"

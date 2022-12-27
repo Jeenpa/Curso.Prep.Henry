@@ -1,0 +1,3 @@
+* Arrays: Los arrays son arrelos o matrices de datos que pueden contener multiples elementos en una sola variable definida por corchetes []
+
+ejemplo: var arrelo= [];

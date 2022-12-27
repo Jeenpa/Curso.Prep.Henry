@@ -1,0 +1,85 @@
+
+body{
+
+	border: 1px solid black;
+	background-size: auto;
+	background-color: skyblue;
+
+}
+
+#logo{
+	width: 14%;
+	height: 24%;
+	margin: 10px;
+	padding: 5px;
+	text-align: center;
+	border: 4px solid black;
+	float: right;
+}
+
+#titulo{
+	border: 2px solid black;
+	text-align: center;
+	padding: 7%;
+
+}
+
+#pc{
+	width: 34%;
+	height: 44%;
+	margin: 50px;
+	float: right;
+	background-color: transparent;
+
+}
+
+
+header{
+	border: 1px solid black;
+
+}
+
+
+
+main{
+	
+	height: 50%;
+	padding-bottom: 50%;
+
+}
+
+
+
+section{
+	width: 46%;
+	margin: 2%;
+	text-align: justify;
+
+}
+
+aside{
+	margin: 2%;
+	text-align: justify;
+	padding: 5%;
+}
+
+
+.divClass{
+	width: 30%;
+	float: left;
+	margin: 1%;;
+}
+
+
+
+fieldset{
+	background-color: white;
+}
+
+
+footer{
+	border: 2px solid black;
+	padding: 4%;
+	text-align: center;
+
+}
