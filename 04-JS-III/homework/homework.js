@@ -111,11 +111,11 @@ function agregarNumeros(numeros) {
   // "numeros" debe ser un arreglo de enteros (int/integers)
   // Suma todos los enteros y devuelve el valor
   // Tu código:
-  var arreglo=0;
+  var contador=0;
   for (var i = 0; i < numeros.length; i++) {
-    arreglo= numeros[i] + arreglo;
+    contador= numeros[i] + contador;
   }
-  return arreglo
+  return contador
 
 }
 
@@ -127,13 +127,13 @@ function promedioResultadosTest(resultadosTest) {
   // "resultadosTest" debe ser una matriz de enteros (int/integers)
   // Itera (en un bucle) los elementos del array, calcula y devuelve el promedio de puntajes
   // Tu código:
-  var arreglo = 0
+  var contador = 0
 
   for (var i = 0; i < resultadosTest.length; i++) {
-    arreglo = resultadosTest[i] + arreglo;
+    contador = resultadosTest[i] + contador;
   }
 
-  return arreglo/resultadosTest.length
+  return contador/resultadosTest.length
 }
 
 
